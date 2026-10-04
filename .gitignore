@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated scan reports
+reports/*.txt
+!reports/.gitkeep
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
